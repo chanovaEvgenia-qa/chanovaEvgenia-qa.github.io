@@ -1,2 +1,2 @@
-# chanovaEvgenia-qa.github.io
-Мой первый хостинг
+# cv
+Сайт-визитка на HTML+CSS+JS
